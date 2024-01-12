@@ -1,0 +1,36 @@
+function skillsMember() {
+    var skills = document.getElementById("skills");
+    var skillsMember = document.getElementById("skillsMember");
+    var skillsMemberValue = document.getElementById("skillsMemberValue");
+    var skillsMemberValue2 = document.getElementById("skillsMemberValue2");
+    var skillsMemberValue3 = document.getElementById("skillsMemberValue3");
+    var skillsMemberValue4 = document.getElementById("skillsMemberValue4");
+    var skillsMemberValue5 = document.getElementById("skillsMemberValue5");
+    var skillsMemberValue6 = document.getElementById("skillsMemberValue6");
+    var skillsMemberValue7 = document.getElementById("skillsMemberValue7");
+    var skillsMemberValue8 = document.getElementById("skillsMemberValue8");
+    var skillsMemberValue9 = document.getElementById("skillsMemberValue9");
+    var skillsMemberValue10 = document.getElementById("skillsMemberValue10");
+    var skillsMemberValue11 = document.getElementById("skillsMemberValue11");
+    var skillsMemberValue12 = document.getElementById("skillsMemberValue12");
+    var skillsMemberValue13 = document.getElementById("skillsMemberValue13");
+    var skillsMemberValue14 = document.getElementById("skillsMemberValue14");
+    var skillsMemberValue15 = document.getElementById("skillsMemberValue15");
+    var skillsMemberValue16 = document.getElementById("skillsMemberValue16");
+    var skillsMemberValue17 = document.getElementById("skillsMemberValue17");
+    var skillsMemberValue18 = document.getElementById("skillsMemberValue18");
+    var skillsMemberValue19 = document.getElementById("skillsMemberValue19");
+    var skillsMemberValue20 = document.getElementById("skillsMemberValue20");
+    var skillsMemberValue21 = document.getElementById("skillsMemberValue21");
+    var skillsMemberValue22 = document.getElementById("skillsMemberValue22");
+    var skillsMemberValue23 = document.getElementById("skillsMemberValue23");
+    var skillsMemberValue24 = document.getElementById("skillsMemberValue24");
+    var skillsMemberValue25 = document.getElementById("skillsMemberValue25");
+    var skillsMemberValue26 = document.getElementById("skillsMemberValue26");
+    var skillsMemberValue27 = document.getElementById("skillsMemberValue27");
+    var skillsMemberValue28 = document.getElementById("skillsMemberValue28");
+    var skillsMemberValue29 = document.getElementById("skillsMemberValue29");
+    var skillsMemberValue30 = document.getElementById("skillsMemberValue30");
+    var skillsMemberValue31 = document.getElementById("skillsMemberValue31");
+    var skillsMemberValue32 = document.getElementById("skillsMemberValue32");
+}
